@@ -1,1 +1,0 @@
-# sukra-tevo-seatingmap-client
